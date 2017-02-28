@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-02-22T11:00:00+08:00</updated><entry><title>協同產品設計實習第1週任務</title><link href="./brython-2d-drawing.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-02-22:./brython-2d-drawing.html</id><summary type="html">&lt;p&gt;網際協同設計資料整合, 網際 2D 程式繪圖回顧&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-02-28T11:20:00+08:00</updated><entry><title>Week1 20170228</title><link href="./Week%201.html" rel="alternate"></link><published>2017-02-28T11:20:00+08:00</published><updated>2017-02-28T11:20:00+08:00</updated><author><name>40423223</name></author><id>tag:,2017-02-28:./Week 1.html</id><summary type="html">&lt;p&gt;利用ipconfig/all的指令去尋找IP位置再去stunnel.conf修改IP&lt;/p&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YRcfFBJLCaU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;心得:之前一直忘記是哪一個指令可以尋找IP這一次一定要記起來&lt;/p&gt;</summary><category term="teach"></category></entry><entry><title>協同產品設計實習第1週任務</title><link href="./brython-2d-drawing.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-02-22:./brython-2d-drawing.html</id><summary type="html">&lt;p&gt;網際協同設計資料整合, 網際 2D 程式繪圖回顧&lt;/p&gt;
 
 
 &lt;h2&gt;網際協同設計資料整合&lt;/h2&gt;
