@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423223-2017Spring 協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-02-28T11:20:00+08:00</updated><entry><title>Week1 20170228</title><link href="./Week%201.html" rel="alternate"></link><published>2017-02-28T11:20:00+08:00</published><updated>2017-02-28T11:20:00+08:00</updated><author><name>40423223</name></author><id>tag:,2017-02-28:./Week 1.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423223 - 2017Spring 協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-02-28T11:20:00+08:00</updated><entry><title>Week1 20170228</title><link href="./Week%201.html" rel="alternate"></link><published>2017-02-28T11:20:00+08:00</published><updated>2017-02-28T11:20:00+08:00</updated><author><name>40423223</name></author><id>tag:,2017-02-28:./Week 1.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;利用ipconfig/all的指令去尋找IP位置再去stunnel.conf修改IP&lt;/p&gt;
 
