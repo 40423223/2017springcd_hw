@@ -59,7 +59,8 @@
 </v>
 </v>
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
-<v t="leo.20170228111916.1"><vh>@edit 20170304.md</vh></v>
+<v t="leo.20170228111916.1"><vh>@edit 20170311.md</vh></v>
+<v t="leo.20170314000452.1"><vh>@edit 20170304.md</vh></v>
 <v t="leo.20170304154519.1"><vh>@edit 20170228.md</vh></v>
 <v t="yen.20170108171733.81" a="E"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
@@ -444,13 +445,13 @@ make.start()
 </t>
 <t tx="yen.20170120110024.8">## 2017Spring 協同產品設計實習
 
-### 虎科大機械設計工程系
+### 40423223 林德威 虎科大機械設計工程系
 
 &lt;small&gt;
 Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 &lt;/small&gt;
 
-[協同產品設計實習課程網誌](blog/index.html)
+[40423223 協同產品設計實習課程網誌](blog/index.html)
 
 
 </t>
