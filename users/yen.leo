@@ -33,16 +33,56 @@
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
 <v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
 <v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
-<v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
+<v t="yen.20170120110024.7"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20170222114233.1" a="E"><vh>20170222Week1</vh>
-<v t="leo.20170222114233.2"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="yen.20170120110024.9" a="E"><vh>快捷鍵</vh>
+<v t="yen.20170120110024.9"><vh>快捷鍵</vh>
 <v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="yen.20170120110024.11" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20170315082351.1"><vh>20170222Week1</vh>
+<v t="leo.20170315082351.2" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170315082351.3"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170315083548.1" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170315083548.2"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170315083619.1" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170315083619.2"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170315084038.1" a="E"><vh>20170304Week2</vh>
+<v t="leo.20170315084038.2" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170315084038.3"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170315084038.4" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170315084038.5"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170315084038.6" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170315084038.7"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170315084229.1" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170315084229.2"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170315084327.1" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170315084327.2"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170315084423.1" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170315084423.2"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170315084556.1" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170315084556.2"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170315084630.1"><vh>課堂報告1</vh>
+<v t="leo.20170315084630.2"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170315084713.1"><vh>課堂報告1</vh>
+<v t="leo.20170315084713.2"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170315084734.1" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170315084734.2"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="yen.20170120110024.11"><vh>各式內容引用範例</vh>
 <v t="yen.20170120110024.12" a="E"><vh>導入數學符號與方程式</vh>
 <v t="yen.20170120110024.13"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -90,34 +130,209 @@
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
 </vnodes>
 <tnodes>
-<t tx="leo.20170222114233.1">&lt;section data-markdown&gt;
+<t tx="leo.20170315082351.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170315082351.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
+
 						
 </t>
-<t tx="leo.20170222114233.2"># 上課內容
+<t tx="leo.20170315082351.3"># Week 1
 
-tiny2017 - with_pip\data\stunnel\config的stunnel.conf檔案
+&lt;p&gt;利用ipconfig/all的指令去尋找IP位置再去stunnel.conf修改IP&lt;/p&gt;
 
-stunnel.conf移到SciTE
 
-程式碼前面是分號 就是註解不會執行那段程式碼
-
-利用cmd查IP(ipconfig /all)
-
-將https的IP改為電腦的IP(第138行)
-
-443是https內建的port號, 不用改
-
-因為有用proxy所以要指定192.168.1.49的IP不要經過proxy                                              
-Chrome proxy設定&gt;LAN設定&gt;進階
-
-2017springcd/data/onelink_vrep_remoteapi_pos_vel.7z
 </t>
+<t tx="leo.20170315083548.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170315083548.2">
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YRcfFBJLCaU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20170315083619.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170315083619.2"># 心得:
+
+#之前一直忘記是哪一個指令可以尋找IP這一次一定要記起來
+
+</t>
+<t tx="leo.20170315084038.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170315084038.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170315084038.3"># Week 2
+
+&lt;h2&gt;  四連桿機構 solvespace,onshape &lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/g43TawOsFho" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt; 
+
+</t>
+<t tx="leo.20170315084038.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170315084038.5">&lt;h2&gt;零件一 solvespace&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/1fKwLav-hPA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20170315084038.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170315084038.7">&lt;h2&gt;零件二 solvespace&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/MdVrvzSIqWg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20170315084229.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170315084229.2">&lt;h2&gt;零件三 solvespace&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vCOcjH_3Uas" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170315084327.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170315084327.2">&lt;h2&gt;組合 solvespace&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6y4ZQHjXwHA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170315084423.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170315084423.2">&lt;h2&gt;零件一 onshape&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Q6BSoaGcEkg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170315084556.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170315084556.2">&lt;h2&gt;零件二 onshape&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/IeZdbXNIyeQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170315084630.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170315084630.2">&lt;h2&gt;零件三 onshape&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mhhzlM6BG3U" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170315084713.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170315084713.2">&lt;h2&gt;組合 onshape&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mhhzlM6BG3U" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170315084734.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170315084734.2">##心得:
+
+##複習了很多solvespace,onshape功能也恢復了很多指令的記憶</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
