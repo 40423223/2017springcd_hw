@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40423223 - 2017Spring 協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-03-10T11:20:00+08:00</updated><entry><title>Week3 20170310</title><link href="./Week%203.html" rel="alternate"></link><published>2017-03-10T11:20:00+08:00</published><updated>2017-03-10T11:20:00+08:00</updated><author><name>40423223</name></author><id>tag:,2017-03-10:./Week 3.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40423223 - 2017Spring 協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-03-15T11:20:00+08:00</updated><entry><title>Week4 20170315</title><link href="./Week%204.html" rel="alternate"></link><published>2017-03-15T11:20:00+08:00</published><updated>2017-03-15T11:20:00+08:00</updated><author><name>40423223</name></author><id>tag:,2017-03-15:./Week 4.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h2&gt;Fossil SCM 倉儲&lt;/h2&gt;
+
+&lt;p&gt;各組在 https://mde2a2.kmol.info 主機上建立 cdbg4&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mde2a2.kmol.info/cdbg4/wcontent"&gt;cdbg4&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;單連桿製作&lt;/h2&gt;
+
+&lt;h2&gt;零件一&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/wlOfKTUmetk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;零件二&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/IvmwuJai5_E" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;零件三&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vFvmKUre5oo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;組合&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/7tERu7d2HM0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;導入v-rep&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/2jZEmeF_2ew" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;心得&lt;/h2&gt;
+
+&lt;h2&gt;我覺得小組倉儲的概念很實用這樣我們可以很清楚知道每一個資訊的細節與後來更動的部分,而且也可以知道每一個人的想法&lt;/h2&gt;</summary><category term="teach"></category></entry><entry><title>Week3 20170310</title><link href="./Week%203.html" rel="alternate"></link><published>2017-03-10T11:20:00+08:00</published><updated>2017-03-10T11:20:00+08:00</updated><author><name>40423223</name></author><id>tag:,2017-03-10:./Week 3.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h2&gt;小組 創Fossil SCM&lt;/h2&gt;
 
