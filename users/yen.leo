@@ -39,9 +39,12 @@
 <v t="yen.20170120110024.9"><vh>快捷鍵</vh>
 <v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20170315082351.1"><vh>20170222Week1</vh>
+<v t="leo.20170315082351.1" a="E"><vh>20170222Week1</vh>
 <v t="leo.20170315082351.2" a="E"><vh>課堂報告1</vh>
 <v t="leo.20170315082351.3"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170326105043.1" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170326105043.2"><vh>上課內容1</vh></v>
 </v>
 <v t="leo.20170315083548.1" a="E"><vh>課堂報告1</vh>
 <v t="leo.20170315083548.2"><vh>上課內容1</vh></v>
@@ -50,11 +53,14 @@
 <v t="leo.20170315083619.2"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="leo.20170315084038.1"><vh>20170304Week2</vh>
-<v t="leo.20170315084038.2"><vh>課堂報告1</vh>
+<v t="leo.20170315084038.1" a="E"><vh>20170304Week2</vh>
+<v t="leo.20170315084038.2" a="E"><vh>課堂報告1</vh>
 <v t="leo.20170315084038.3"><vh>上課內容1</vh></v>
 </v>
-<v t="leo.20170315084038.4"><vh>課堂報告1</vh>
+<v t="leo.20170326104823.1" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170326104823.2"><vh>上課內容1</vh></v>
+</v>
+<v t="leo.20170315084038.4" a="E"><vh>課堂報告1</vh>
 <v t="leo.20170315084038.5"><vh>上課內容1</vh></v>
 </v>
 <v t="leo.20170315084038.6"><vh>課堂報告1</vh>
@@ -80,6 +86,61 @@
 </v>
 <v t="leo.20170315084734.1"><vh>課堂報告1</vh>
 <v t="leo.20170315084734.2"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170326104415.1"><vh>20170311Week3</vh>
+<v t="leo.20170326104415.2" a="E"><vh>1</vh>
+<v t="leo.20170326104415.3"><vh>1-1</vh></v>
+</v>
+<v t="leo.20170326104415.4" a="E"><vh>2</vh>
+<v t="leo.20170326104415.5"><vh>2-1</vh></v>
+</v>
+<v t="leo.20170326105330.1" a="E"><vh>3</vh>
+<v t="leo.20170326105330.2"><vh>3-1</vh></v>
+</v>
+<v t="leo.20170326105654.1" a="E"><vh>4</vh>
+<v t="leo.20170326105654.2"><vh>4-1</vh></v>
+</v>
+<v t="leo.20170326105736.1"><vh>5</vh>
+<v t="leo.20170326105736.2"><vh>5-1</vh></v>
+</v>
+<v t="leo.20170326105853.1"><vh>6</vh>
+<v t="leo.20170326105853.2"><vh>6-1</vh></v>
+</v>
+</v>
+<v t="leo.20170326110122.1" a="E"><vh>20170315Week4</vh>
+<v t="leo.20170326110122.2" a="E"><vh>1</vh>
+<v t="leo.20170326110122.3"><vh>1-1</vh></v>
+</v>
+<v t="leo.20170326110122.4" a="E"><vh>2</vh>
+<v t="leo.20170326110122.5"><vh>2-1</vh></v>
+</v>
+<v t="leo.20170326110122.6" a="E"><vh>3</vh>
+<v t="leo.20170326110122.7"><vh>3-1</vh></v>
+</v>
+<v t="leo.20170326110122.8" a="E"><vh>4</vh>
+<v t="leo.20170326110122.9"><vh>4-1</vh></v>
+</v>
+<v t="leo.20170326110122.10" a="E"><vh>5</vh>
+<v t="leo.20170326110122.11"><vh>5-1</vh></v>
+</v>
+<v t="leo.20170326110122.12" a="E"><vh>6</vh>
+<v t="leo.20170326110122.13"><vh>6-1</vh></v>
+</v>
+<v t="leo.20170326111335.1" a="E"><vh>7</vh>
+<v t="leo.20170326111335.2"><vh>7-1</vh></v>
+</v>
+<v t="leo.20170326111337.1" a="E"><vh>8</vh>
+<v t="leo.20170326111337.2"><vh>8-1</vh></v>
+</v>
+<v t="leo.20170326111339.1" a="E"><vh>9</vh>
+<v t="leo.20170326111339.2"><vh>9-1</vh></v>
+</v>
+<v t="leo.20170326111341.1" a="E"><vh>10</vh>
+<v t="leo.20170326111341.2"><vh>10-1</vh></v>
+</v>
+<v t="leo.20170326111342.1" a="E"><vh>11</vh>
+<v t="leo.20170326111342.2"><vh>11-1</vh></v>
 </v>
 </v>
 <v t="yen.20170120110024.11"><vh>各式內容引用範例</vh>
@@ -147,7 +208,7 @@
 </t>
 <t tx="leo.20170315082351.3"># Week 1
 
-&lt;p&gt;利用ipconfig/all的指令去尋找IP位置再去stunnel.conf修改IP&lt;/p&gt;
+
 
 
 </t>
@@ -196,11 +257,9 @@
 
 						
 </t>
-<t tx="leo.20170315084038.3"># Week 2
+<t tx="leo.20170315084038.3">#Week2
 
-&lt;h2&gt;  四連桿機構 solvespace,onshape &lt;/h2&gt;
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/g43TawOsFho" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt; 
 
 </t>
 <t tx="leo.20170315084038.4">&lt;section data-markdown&gt;
@@ -334,6 +393,376 @@
 <t tx="leo.20170315084734.2">##心得:
 
 ##複習了很多solvespace,onshape功能也恢復了很多指令的記憶</t>
+<t tx="leo.20170326104415.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170326104415.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326104415.3">#Week3
+
+ 
+
+</t>
+<t tx="leo.20170326104415.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326104415.5">
+&lt;h2&gt;小組 創Fossil SCM&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HI24oKKnF8k" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20170326104823.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326104823.2">
+
+&lt;h2&gt;  四連桿機構 solvespace,onshape &lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/g43TawOsFho" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt; 
+
+</t>
+<t tx="leo.20170326105043.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326105043.2">
+
+&lt;p&gt;利用ipconfig/all的指令去尋找IP位置再去stunnel.conf修改IP&lt;/p&gt;
+
+
+</t>
+<t tx="leo.20170326105330.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326105330.2">
+&lt;h2&gt;40423223Slvespace組立轉入v rep&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PkUgnNXSuGE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20170326105654.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326105654.2">
+&lt;h2&gt;40423223onshape組立轉入v rep&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Q-vzhhbOGhE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20170326105736.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326105736.2">
+&lt;h2&gt;40423223Solvespace加入三角形頂點運動軌跡&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PzDrsI5bmr4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20170326105853.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326105853.2">
+&lt;h1&gt;心得:&lt;/h1&gt;
+
+&lt;h2&gt;這一次的作業有去了解到v-rep這個程式在做甚麼以後一定可以幫助我模擬一些機構上的運動就不怕做出來的東西不能作動了&lt;/h2&gt;
+
+
+</t>
+<t tx="leo.20170326110122.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170326110122.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326110122.11">and we have features now like as you zoom close into your model the mesh lines appear 
+
+像我們現在的功能就是當你靠近放大模型就會有內部格線出現
+
+but as you zoom out rather than getting a black model 
+
+而當你縮小不再是一個黑色模型
+
+the mesh lines fade and now you're actually selecting and working at a hard level rather than an element leve 
+
+內部格線會漸漸消失，但你現在實際上是選擇工作水平，而不是一個元素水平
+
+
+</t>
+<t tx="leo.20170326110122.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326110122.13">
+&lt;h1&gt;單連桿製作&lt;/h1&gt;
+
+&lt;h2&gt;零件一&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/wlOfKTUmetk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+</t>
+<t tx="leo.20170326110122.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326110122.3">#Week4
+
+ 
+
+</t>
+<t tx="leo.20170326110122.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326110122.5">
+&lt;h2&gt;Fossil SCM 倉儲&lt;/h2&gt;
+
+各組在 https://mde2a2.kmol.info 主機上建立 cdbg4
+
+&lt;a href="https://mde2a2.kmol.info/cdbg4/wcontent"&gt;cdbg4&lt;/a&gt;
+
+
+</t>
+<t tx="leo.20170326110122.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326110122.7">
+&lt;h1&gt;hyperworks 14 4翻譯 40423223 40439221&lt;/h1&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gZkutmx1txc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20170326110122.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326110122.9">
+&lt;h2&gt;以下為我負責部分&lt;/h2&gt;
+
+i'm really excited about the new graphics 
+that are comming out in hyper mentionthis release
+
+我真的很興奮的介紹新圖形出現的這個版本
+
+we went back to the drawing board on graphics 
+
+我們看到這個繪圖板上的圖形
+
+now we're really urilizing the full capabilities of the graphics cards  on any system 
+
+現在我們能在任何系統上用到顯卡全部功能
+
+really and the new system has much better quality graphics 
+
+真的和新系統有更好的質量圖形
+
+
+</t>
+<t tx="leo.20170326111335.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326111335.2">
+&lt;h2&gt;零件二&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/IvmwuJai5_E" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20170326111337.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326111337.2">
+&lt;h2&gt;零件三&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vFvmKUre5oo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20170326111339.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326111339.2">
+&lt;h2&gt;組合&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/7tERu7d2HM0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20170326111341.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326111341.2">
+&lt;h2&gt;導入v-rep&lt;/h2&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/2jZEmeF_2ew" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20170326111342.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170326111342.2">
+&lt;h1&gt;心得&lt;/h1&gt;
+
+##我覺得小組倉儲的概念很實用這樣我們可以很清楚知道每一個資訊的細節與後來更動的部分,而且也可以知道每一個人的想法
+
+
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
