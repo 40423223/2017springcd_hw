@@ -306,7 +306,8 @@ ctx.fillStyle = "   #2894FF"
 ctx.font = "30px ScriptS"
 ctx.fillText("40423223 ", (canvas.width)/2-60, (canvas.height)/2+30)
 ctx.stroke()
-&lt;/script&gt;</summary><category term="Brython"></category></entry><entry><title>Week12 20170510</title><link href="./Week%2012.html" rel="alternate"></link><published>2017-05-10T11:00:00+08:00</published><updated>2017-05-10T11:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2017-05-10:./Week 12.html</id><summary type="html">&lt;p&gt;2D 正齒輪傳動繪圖 2D 靜態網際繪圖&lt;/p&gt;
+&lt;/script&gt;</summary><category term="Brython"></category></entry><entry><title>Week17 20170614</title><link href="./Week%2017.html" rel="alternate"></link><published>2017-05-31T11:00:00+08:00</published><updated>2017-05-31T11:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2017-05-31:./Week 17.html</id><summary type="html">&lt;p&gt;期末練習&lt;/p&gt;
+</summary><category term="Brython"></category></entry><entry><title>Week12 20170510</title><link href="./Week%2012.html" rel="alternate"></link><published>2017-05-10T11:00:00+08:00</published><updated>2017-05-10T11:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2017-05-10:./Week 12.html</id><summary type="html">&lt;p&gt;2D 正齒輪傳動繪圖 2D 靜態網際繪圖&lt;/p&gt;
 
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
