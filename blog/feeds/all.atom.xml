@@ -3,8 +3,9 @@
 
 
 &lt;p&gt;1.
-solvespace 檔案推送
-&lt;iframe src="./../data/w17/40423223.html"width="600"height="600"&gt;&lt;/iframe&gt;&lt;/p&gt;
+solvespace 檔案推送&lt;/p&gt;
+&lt;iframe src="./../data/w17/40423223.html"width="600"height="600"&gt;&lt;/iframe&gt;
+
 &lt;p&gt;2.
 solvespace 2D 繪圖 程式碼&lt;/p&gt;
 &lt;pre class="brush: python"&gt;
@@ -2410,7 +2411,10 @@ Constraint.reference=0
 Constraint.disp.offset.x=-59.41121354771945600000
 Constraint.disp.offset.y=-8.01044987457820850000
 Constraint.disp.offset.z=2.50821487575232240000
-AddConstraint</summary><category term="Brython"></category></entry><entry><title>Week15 20170531</title><link href="./Week%2015.html" rel="alternate"></link><published>2017-05-31T11:00:00+08:00</published><updated>2017-05-31T11:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2017-05-31:./Week 15.html</id><summary type="html">&lt;p&gt;w15齒輪練習&lt;/p&gt;
+AddConstraint
+
+3.
+子模組建立與運用</summary><category term="Brython"></category></entry><entry><title>Week15 20170531</title><link href="./Week%2015.html" rel="alternate"></link><published>2017-05-31T11:00:00+08:00</published><updated>2017-05-31T11:00:00+08:00</updated><author><name>40423223</name></author><id>tag:,2017-05-31:./Week 15.html</id><summary type="html">&lt;p&gt;w15齒輪練習&lt;/p&gt;
 
 
 &lt;p&gt;w15 齒輪練習練習一  全齒&lt;/p&gt;
