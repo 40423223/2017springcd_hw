@@ -10,7 +10,7 @@ solvespace 檔案推送&lt;/p&gt;
 
 &lt;p&gt;2.
 solvespace 2D 繪圖 程式碼&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/P_VARmL5uOg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/bgXRNxkYpD0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
@@ -75,23 +75,18 @@ class Spur(object):
         ra=rp+a
 
         # self.create_line(起點X, 起點Y, 終點X, 終點Y)
+        self.create_line2(413.3048144374, 177.2479966577, 290.7895389317, 388.5956281791)
+        self.create_line3(413.3048144374, 177.2479966577, 511.1693764644, 347.3719332885)
+        self.create_line2(227.6504481759, 387.8209664272, 346.5192837924, 389.2793836984)
+        self.create_line3(227.6504481759, 387.8209664272, 284.1356468731, 456.3670007375)
+        self.create_line2(284.1356468731, 456.3670007375, 346.5192837924,389.2793836984)
+        self.create_line3(427.9934803377, 380.2213155970, 575.0433682823, 322.1456204442)
+        self.create_line2(575.0433682823, 322.1456204442, 520.3793963799,404.4149916970)
+        self.create_line3(520.3793963799,404.4149916970, 427.9934803377, 380.2213155970)
+        self.create_line2(226.2012780153,497.9557157416, 591.7048592847, 405.9036159059)
+        self.create_line3(226.2012780153,497.9557157416, 589.5113097233 , 497.9557157416)
 
-        # 右腳
-        self.create_line2(400, 80.00, 500.00, 500)
-        self.create_line2(600, 500, 600, 500)
-        self.create_line2(400, 500, 500.00, 500)
-        self.create_line2(500.00, 500, 600, 500)
 
-        # 左腳
-        self.create_line2(500, 100, 300, 500)
-        self.create_line2(250, 400, 350, 500)
-        self.create_line2(450, 500, 540, 500)
-        self.create_line2(300, 430, 300, 500)
-        self.create_line2(300, 500, 350, 500)
-
-        # 傾斜地板
-        self.create_line3(195, 545, 645, 545)
-        self.create_line3(195, 545, 638, 467)
 
         if rd&gt;rb:
             dr = (ra-rd)/imax
