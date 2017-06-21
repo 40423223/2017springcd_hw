@@ -22,17 +22,17 @@
 <v t="yen.20170108171733.6"><vh>@edit local_publishconf.py</vh></v>
 <v t="yen.20170108171733.7"><vh>@edit pelicanconf.py</vh></v>
 </v>
-<v t="yen.20170215103217.1"><vh>編輯 template</vh>
+<v t="yen.20170215103217.1" a="E"><vh>編輯 template</vh>
 <v t="yen.20170215103228.1"><vh>@path theme/pelican-bootstrap3_local/templates</vh>
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
-<v t="yen.20170120110024.2"><vh>html</vh>
+<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
-<v t="yen.20170120110024.4"><vh>body</vh>
-<v t="yen.20170120110024.5"><vh>reveal div</vh>
-<v t="yen.20170120110024.6"><vh>slides div</vh>
+<v t="yen.20170120110024.4" a="E"><vh>body</vh>
+<v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
+<v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
 <v t="yen.20170120110024.7"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
@@ -143,6 +143,44 @@
 <v t="leo.20170326111342.2"><vh>11-1</vh></v>
 </v>
 </v>
+<v t="leo.20170621084611.1"><vh>20170503Week11</vh>
+<v t="leo.20170621084611.2" a="E"><vh>1</vh>
+<v t="leo.20170621084611.3"><vh>1-1</vh></v>
+</v>
+<v t="leo.20170621084611.4" a="E"><vh>2</vh>
+<v t="leo.20170621084611.5"><vh>2-1</vh></v>
+</v>
+<v t="leo.20170621084611.6" a="E"><vh>3</vh>
+<v t="leo.20170621084611.7"><vh>3-1</vh></v>
+</v>
+<v t="leo.20170621084611.8" a="E"><vh>4</vh>
+<v t="leo.20170621084611.9"><vh>4-1</vh></v>
+</v>
+</v>
+<v t="leo.20170621085402.1"><vh>20170503Week12</vh>
+<v t="leo.20170621085402.2" a="E"><vh>1</vh>
+<v t="leo.20170621085402.3"><vh>1-1</vh></v>
+</v>
+<v t="leo.20170621085402.4" a="E"><vh>2</vh>
+<v t="leo.20170621085402.5"><vh>2-1</vh></v>
+</v>
+</v>
+<v t="leo.20170621085404.1" a="E"><vh>20170503Week15</vh>
+<v t="leo.20170621085404.2" a="E"><vh>1</vh>
+<v t="leo.20170621085404.3"><vh>1-1</vh></v>
+</v>
+<v t="leo.20170621085404.4" a="E"><vh>2</vh>
+<v t="leo.20170621085404.5"><vh>2-1</vh></v>
+</v>
+</v>
+<v t="leo.20170621085405.1" a="E"><vh>20170503Week17</vh>
+<v t="leo.20170621085405.2" a="E"><vh>1</vh>
+<v t="leo.20170621085405.3"><vh>1-1</vh></v>
+</v>
+<v t="leo.20170621085405.4" a="E"><vh>2</vh>
+<v t="leo.20170621085405.5"><vh>2-1</vh></v>
+</v>
+</v>
 <v t="yen.20170120110024.11"><vh>各式內容引用範例</vh>
 <v t="yen.20170120110024.12"><vh>導入數學符號與方程式</vh>
 <v t="yen.20170120110024.13"><vh>LaTeX 格式方程式</vh></v>
@@ -180,7 +218,7 @@
 </v>
 <v t="yen.20170108171930.1"><vh>@button https server</vh></v>
 <v t="yen.20170108171939.1"><vh>@button ipv6 https server</vh></v>
-<v t="yen.20170120212350.1"><vh>programs</vh>
+<v t="yen.20170120212350.1" a="E"><vh>programs</vh>
 <v t="yen.20170210153828.1"><vh>v-rep rempte api</vh>
 <v t="yen.20170210202015.1"><vh>Python remote API</vh></v>
 <v t="yen.20170210170248.1"><vh>line tracer</vh></v>
@@ -193,7 +231,7 @@
 <v t="yen.20170120232548.1"><vh>calendar example</vh></v>
 <v t="yen.20170123204227.1"><vh>印出月曆以及各課程上課日期</vh></v>
 <v t="yen.20170207092354.1"><vh>協同程式參考</vh></v>
-<v t="yen.20170124102405.1"><vh>chat</vh>
+<v t="yen.20170124102405.1" a="E"><vh>chat</vh>
 <v t="yen.20170124102433.1"><vh>index.html</vh></v>
 </v>
 </v>
@@ -768,6 +806,195 @@ really and the new system has much better quality graphics
 &lt;h1&gt;心得&lt;/h1&gt;
 
 ##我覺得小組倉儲的概念很實用這樣我們可以很清楚知道每一個資訊的細節與後來更動的部分,而且也可以知道每一個人的想法
+
+
+</t>
+<t tx="leo.20170621084611.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170621084611.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084611.3">#Week11
+
+ 
+
+</t>
+<t tx="leo.20170621084611.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084611.5">
+&lt;h2&gt;閱讀心得 two books&lt;/h2&gt;
+
+&lt;p&gt;Onshape's Greatest Tech Tips– Volume 1&lt;/p&gt;
+&lt;p&gt;心得:&lt;/p&gt;
+ 藉由此篇文章中可了解on shape每個功能在產品設計中的便利之處，像是時間軸設定可以清楚檢視每階段時間的作品差異性，並可以隨時呼叫出來修改，對於隨時要滿足各市場的產品設計時非常方便， 並可以利用評論功能在作品底下留言，比起以往使用截圖或檔案傳送討論而言快速許多，可以在個體特徵上添加註釋也解省了許多解釋的時間，從這些小地方可看出on shape對於產品設計團隊合作上的提供了許多便利之處。
+
+
+
+
+</t>
+<t tx="leo.20170621084611.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084611.7">
+&lt;p&gt;An Introduction to Agile Product Design&lt;/p&gt;
+&lt;p&gt;心得:&lt;/p&gt;
+ 對於現代產品設計強調速度、創新，在這些競爭中越能越快抓住市場與世界趨勢就越有優勢，因此敏捷的產品設計在這時代是不可或缺的能力，由此可知設計使用的軟體越偏向快速、成本低、功能完備、方便討論的趨勢，若能縮短產品設計與發佈的時間，不但能早搶占市場優勢，成為新潮產品，也越能搶佔專利權，隨著團隊合作模式的改變，不再像以前的團隊一樣階段性接著畫，現代為節省時間都強調，「同步處理」
+</t>
+<t tx="leo.20170621084611.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084611.9">，”on shape”就出現了，一方面讓團隊能隨時注意組員畫圖進度並且若要組裝可以馬上應用，一方面因為是網頁式開啟，比起以往需要帶著軟體到處跑，現在只需要有網路皆可隨時開啟討論。
+總心得:看完兩篇文章後除了對於英文能力的增強外，對於on shpae在產品設計中的便利與重要性也有不同的認識，並也了解現代產品設計的趨勢與未來軟體的轉變趨勢，不敢說現在的on shape能完全取代CAD，但相信在未來一步步改善後，不久的將來有機會成為產品設計中的主流。
+
+
+
+</t>
+<t tx="leo.20170621085402.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170621085402.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621085402.3">#Week12
+
+ 
+
+</t>
+<t tx="leo.20170621085402.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621085402.5">
+
+
+ 2D 正齒輪傳動繪圖 2D 靜態網際繪圖
+
+
+
+</t>
+<t tx="leo.20170621085404.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170621085404.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621085404.3">#Week15
+
+ 
+
+</t>
+<t tx="leo.20170621085404.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621085404.5">
+&lt;h2&gt;w15齒輪練習&lt;/h2&gt;
+。
+
+
+
+
+</t>
+<t tx="leo.20170621085405.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170621085405.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621085405.3">#Week17
+
+ 
+
+</t>
+<t tx="leo.20170621085405.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621085405.5">
+&lt;h2&gt;期末練習&lt;/h2&gt;
+
+
+
+
 
 
 </t>
